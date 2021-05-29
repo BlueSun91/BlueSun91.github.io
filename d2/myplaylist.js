@@ -1,18 +1,32 @@
 var myPlaylist = [
-
     {
-        mp3:'music/dt2.wav',
-        title:'cover_dt2',
+        mp3:'music/Up.mp3',
+        title:'up',
         artist:'Artemij',
     },
     {
-        mp3:'music/dt3.wav',
-        title:'cover_dt3',
+        mp3:'music/circle.mp3',
+        title:'circle',
         artist:'Artemij',
     },
     {
-        mp3:'music/cover_piano_R2_1.wav',
-        title:'cover_r1',
+        mp3:'music/ani_v3.mp3',
+        title:'ani',
+        artist:'Artemij',
+    },
+    {
+        mp3:'music/piano.mp3',
+        title:'piano',
+        artist:'Artemij',
+    },
+    {
+        mp3:'music/m2.8.mp3',
+        title:'heavy',
+        artist:'Artemij',
+    },
+    {
+        mp3:'music/7p4.mp3',
+        title:'7p4',
         artist:'Artemij',
     },
 ];
