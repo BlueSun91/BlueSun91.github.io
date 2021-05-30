@@ -10,13 +10,13 @@ var myPlaylist = [
         artist:'Artemij',
     },
     {
-        mp3:'music/ani_v3.mp3',
-        title:'ani',
+        mp3:'music/piano.mp3',
+        title:'piano',
         artist:'Artemij',
     },
     {
-        mp3:'music/piano.mp3',
-        title:'piano',
+        mp3:'music/ani_v3.mp3',
+        title:'ani',
         artist:'Artemij',
     },
     {
