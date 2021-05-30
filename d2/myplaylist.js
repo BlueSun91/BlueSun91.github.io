@@ -26,7 +26,7 @@ var myPlaylist = [
     },
     {
         mp3:'music/7p4.mp3',
-        title:'7p4',
+        title:'7/4',
         artist:'Artemij',
     },
     {
