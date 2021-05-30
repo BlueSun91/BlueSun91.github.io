@@ -29,4 +29,9 @@ var myPlaylist = [
         title:'7p4',
         artist:'Artemij',
     },
+    {
+        mp3:'music/classical_guitar.mp3',
+        title:'classical guitar',
+        artist:'Artemij',
+    },
 ];
