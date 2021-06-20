@@ -5,23 +5,23 @@ var myPlaylist = [
         artist:'Artemij',
     },
     {
-        mp3:'music/circle.mp3',
-        title:'circle',
-        artist:'Artemij',
-    },
-    {
         mp3:'music/piano.mp3',
         title:'piano',
         artist:'Artemij',
     },
     {
-        mp3:'music/ani_v3.mp3',
-        title:'ani',
+        mp3:'music/circle.mp3',
+        title:'circle',
         artist:'Artemij',
     },
     {
         mp3:'music/m2.8.mp3',
         title:'heavy',
+        artist:'Artemij',
+    },
+    {
+        mp3:'music/ani_v3.mp3',
+        title:'ani',
         artist:'Artemij',
     },
     {
