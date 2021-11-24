@@ -1,0 +1,37 @@
+var myPlaylist = [
+    {
+        mp3:'music/Up.mp3',
+        title:'up',
+        artist:'Artemij',
+    },
+    {
+        mp3:'music/piano.mp3',
+        title:'piano',
+        artist:'Artemij',
+    },
+    {
+        mp3:'music/circle.mp3',
+        title:'circle',
+        artist:'Artemij',
+    },
+    {
+        mp3:'music/m2.8.mp3',
+        title:'heavy',
+        artist:'Artemij',
+    },
+    {
+        mp3:'music/ani_v3.mp3',
+        title:'ani',
+        artist:'Artemij',
+    },
+    {
+        mp3:'music/7p4.mp3',
+        title:'7/4',
+        artist:'Artemij',
+    },
+    {
+        mp3:'music/classical_guitar.mp3',
+        title:'classical guitar',
+        artist:'Artemij',
+    },
+];
