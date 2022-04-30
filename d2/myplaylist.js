@@ -6,7 +6,7 @@ var myPlaylist = [
     },
     {
         mp3:'music/piano.mp3',
-        title:'piano',
+        title:'p3',
         artist:'Artemij',
     },
     {
@@ -15,7 +15,7 @@ var myPlaylist = [
         artist:'Artemij',
     },
     {
-        mp3:'music/m2.8.mp3',
+        mp3:'music/m2.9.mp3',
         title:'heavy',
         artist:'Artemij',
     },
